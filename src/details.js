@@ -1,5 +1,6 @@
 import React from "react";
 function Details({match}) {
+  
     console.log(match);
   return (
     <div>
